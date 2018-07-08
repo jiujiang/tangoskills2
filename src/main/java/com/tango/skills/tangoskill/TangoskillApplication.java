@@ -12,5 +12,6 @@ public class TangoskillApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TangoskillApplication.class, args);
+
 	}
 }
